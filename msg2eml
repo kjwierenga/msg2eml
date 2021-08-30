@@ -1,0 +1,2 @@
+#!/usr/bin/env bash
+bundle exec mapitool -si "$1" > "$1".eml
