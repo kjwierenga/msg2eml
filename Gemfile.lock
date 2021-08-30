@@ -1,0 +1,25 @@
+GIT
+  remote: https://github.com/denodster/ruby-msg
+  revision: 4567655127c2b2192d481be68d2c999e9d8384ee
+  specs:
+    ruby-msg (1.5.3)
+      ruby-ole (>= 1.2.8)
+      vpim (>= 0.360)
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+    ruby-ole (1.2.12.2)
+    vpim (13.11.11)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  ruby-msg!
+
+RUBY VERSION
+   ruby 2.7.0p0
+
+BUNDLED WITH
+   2.1.2
